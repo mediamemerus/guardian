@@ -80,7 +80,7 @@
 }
 
 #meme-bg-target {
-        background-image:url("/i/template.png");
+        background-image:url("images/template.png");
         background-repeat:no-repeat;
         background-size:100% 100%;
 /*
